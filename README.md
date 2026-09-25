@@ -26,6 +26,8 @@ Homebrew:
 brew install --cask Sullivansome/tap/island
 ```
 
+If Homebrew requests trust for this vendor tap, review [the cask](https://github.com/Sullivansome/homebrew-tap/blob/main/Casks/island.rb), run `brew trust --cask Sullivansome/tap/island`, then repeat the installation. This trusts only the Island recipe, not every item in the tap.
+
 After purchasing, enter the license key from your Creem receipt in **Island → Settings → License**. Manage devices there when replacing a Mac. A successfully activated Mac can operate offline for up to 30 days before reconnecting.
 
 ## License
