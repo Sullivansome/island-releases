@@ -8,9 +8,9 @@ This repository distributes signed application binaries and release notes. Islan
 
 Island 1.0.0 supports Apple silicon Macs running macOS 12 or later. The app and disk image are Developer ID signed, notarized by Apple, and stapled.
 
-**Purchases are not open yet.** Downloads are available to inspect the installer and activation screen; plugin operation requires a valid Island 1.x license. There is no free trial in this build. Do not install expecting to activate until checkout is available.
+**Island 1.x is available.** [Buy a license](https://island.brighteng.org/pricing/), then activate the app with the key from your Creem receipt. Plugin operation requires a valid Island 1.x license. There is no free trial in this build.
 
-The planned license is US$19 once for two Macs, including continued use and updates within Island 1.x. Future major upgrades are optional. Applicable taxes are shown at checkout. Refund requests are accepted within 14 days, with statutory rights preserved.
+The license is US$19 once for two Macs, including continued use and updates within Island 1.x. Future major upgrades are optional. Applicable taxes are shown at checkout. Refund requests are accepted within 14 days, with statutory rights preserved.
 
 [Website](https://island.brighteng.org/) · [Pricing](https://island.brighteng.org/pricing/) · [Terms](https://island.brighteng.org/terms/) · [Privacy](https://island.brighteng.org/privacy/)
 
